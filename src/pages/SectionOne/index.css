@@ -1,0 +1,9 @@
+.title-line-height {
+  line-height: 52px;
+}
+
+@media (min-width: 640px) {
+  .title-line-height {
+    line-height: 80px;
+  }
+}
